@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/lishuaijing/Documents/projects/ml-clssification-template/mlruns/0/12937c2f68fd4baeb5d119b9d86c524c/artifacts
+end_time: 1707066549911
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 12937c2f68fd4baeb5d119b9d86c524c
+run_name: legendary-sheep-677
+run_uuid: 12937c2f68fd4baeb5d119b9d86c524c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707066547014
+status: 3
+tags: []
+user_id: lishuaijing

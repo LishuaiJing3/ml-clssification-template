@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/lishuaijing/Documents/projects/ml-clssification-template/mlruns/0/940e264945854c33a8a3e1a792e025dc/artifacts
+end_time: 1707066414204
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 940e264945854c33a8a3e1a792e025dc
+run_name: treasured-lamb-459
+run_uuid: 940e264945854c33a8a3e1a792e025dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707066410962
+status: 3
+tags: []
+user_id: lishuaijing

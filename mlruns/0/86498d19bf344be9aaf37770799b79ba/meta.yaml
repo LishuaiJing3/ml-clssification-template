@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/lishuaijing/Documents/projects/ml-clssification-template/mlruns/0/86498d19bf344be9aaf37770799b79ba/artifacts
+end_time: 1707065518908
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 86498d19bf344be9aaf37770799b79ba
+run_name: powerful-loon-406
+run_uuid: 86498d19bf344be9aaf37770799b79ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707065515469
+status: 3
+tags: []
+user_id: lishuaijing
